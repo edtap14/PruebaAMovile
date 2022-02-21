@@ -1,0 +1,24 @@
+.wrappModalContent{
+    
+    height: 100vh;
+}
+.wrapInfoContent{
+    
+    height: 50vh;
+}
+.wrapChannelContent{    
+   
+    height: 50vh;
+    display: flex;
+}
+.wrapImgInfo{
+   
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+::-webkit-scrollbar{
+    display: none
+  }
